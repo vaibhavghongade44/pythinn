@@ -1,1 +1,1 @@
-# pythinn
+From beginnning of python
